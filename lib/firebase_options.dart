@@ -43,41 +43,4 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAqbH-DfIGhExwwBNcTQNmdULsNrPm5dK4',
-    appId: '1:581851063662:web:d2c8ef4cff805fd5c98d7f',
-    messagingSenderId: '581851063662',
-    projectId: 'weezywizard-2023',
-    authDomain: 'weezywizard-2023.firebaseapp.com',
-    storageBucket: 'weezywizard-2023.appspot.com',
-    measurementId: 'G-K6J83Q96FR',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAZ0Rufn9ZEcAzepU_07TWy72JfTODFb-8',
-    appId: '1:581851063662:android:598d7d1c78e8cab6c98d7f',
-    messagingSenderId: '581851063662',
-    projectId: 'weezywizard-2023',
-    storageBucket: 'weezywizard-2023.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC58vXYcbIKKqH3P_MysDyGAfUy6gdWkbc',
-    appId: '1:581851063662:ios:904799ef6cbf15bec98d7f',
-    messagingSenderId: '581851063662',
-    projectId: 'weezywizard-2023',
-    storageBucket: 'weezywizard-2023.appspot.com',
-    iosClientId: '581851063662-m4lssn3sbtn0h324bnoirf7hl15s9oqo.apps.googleusercontent.com',
-    iosBundleId: 'com.example.weezyWizard',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyC58vXYcbIKKqH3P_MysDyGAfUy6gdWkbc',
-    appId: '1:581851063662:ios:18cfadf3e996668cc98d7f',
-    messagingSenderId: '581851063662',
-    projectId: 'weezywizard-2023',
-    storageBucket: 'weezywizard-2023.appspot.com',
-    iosClientId: '581851063662-mo16mvq8o16hdpul2pb1g5ec76bgr998.apps.googleusercontent.com',
-    iosBundleId: 'com.example.weezyWizard.RunnerTests',
-  );
-}
+ 
